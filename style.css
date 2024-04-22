@@ -1,3 +1,14 @@
 body{
     background-color: plum;
+    color: white;
+    text-align: center;
+}
+
+h1 span{
+    color: rgba(199, 98, 219, 0.87);
+}
+
+#dias_retantes{
+    color: aliceblue;
+    font-size: 50px;
 }
